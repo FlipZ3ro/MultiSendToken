@@ -2,7 +2,7 @@
 
 ## WATCH NOW
 
-[![Watch the video](https://img.youtube.com/vi/0GTl8KT8nUg/maxresdefault.jpg)](https://youtube.com/watch?v=0GTl8KT8nUg)
+[![Watch the video](https://img.youtube.com/vi/0GTl8KT8nUg/maxresdefault.gif)](https://youtube.com/watch?v=0GTl8KT8nUg)
 
 1. pastiin sudah deploy token, kalo belum ikutin tutor disini : https://github.com/arapzz/WRC20
 

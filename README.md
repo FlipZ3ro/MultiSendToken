@@ -1,6 +1,6 @@
 ﻿# Multi Send Token
 
-## WATCH NOW klik gambar dibawah untuk menonton tutorial 👇
+## WATCH NOW : klik gambar dibawah untuk menonton tutorial 👇
 
 [![Watch the video](https://img.youtube.com/vi/0GTl8KT8nUg/maxresdefault.jpg)](https://youtube.com/watch?v=0GTl8KT8nUg)
 

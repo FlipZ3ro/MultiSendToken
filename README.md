@@ -4,7 +4,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/0GTl8KT8nUg/maxresdefault.jpg)](https://youtube.com/watch?v=0GTl8KT8nUg)
 
-### Install in Terminal (Windows)
+## 1. Install in Terminal (Windows)
 
 1. Pastikan sudah deploy token, kalo belum ikutin tutor disini : https://github.com/arapzz/WRC20
 
@@ -31,7 +31,7 @@ node transfer.js
 ```
 DONE 
 
-### Install Terminal TERMUX (Android)
+## 2. Install Terminal TERMUX (Android)
 
 ```
 pkg update

@@ -12,22 +12,18 @@
 ```
 git clone https://github.com/arapzz/MultiSendToken
 ```
-
-4. Comand
 ```
 cd MultiSendToken
 ```
-
-5. comand
 ```
 npm i
 ```
 
-6. masukan SC token di transfer.js
+4. masukan SC token di transfer.js
 
-7. masukin PK di config.js scroll paling bawah
+5. masukin PK di config.js scroll paling bawah
 
-8. jalankan menggunakan command
+6. jalankan menggunakan command
 ```
 node transfer.js
 ```

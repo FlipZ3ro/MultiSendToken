@@ -9,17 +9,25 @@
 2. Buat folder baru
 
 3. masuk Terminal :
-
-'''
+```
 git clone https://github.com/arapzz/MultiSendToken
-'''
+```
 
-6. cd MultiSendToken
+6.
+```
+cd MultiSendToken
+```
 
-7. npm i
+8.
+```
+npm i
+```
 
-8. masukan SC token di transfer.js
+10. masukan SC token di transfer.js
 
-9. masukin PK di config.js scroll paling bawah
+11. masukin PK di config.js scroll paling bawah
 
-10. jalankan menggunakan command node transfer.js
+12. jalankan menggunakan command
+```
+node transfer.js
+```

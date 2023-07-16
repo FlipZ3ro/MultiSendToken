@@ -9,9 +9,11 @@
 2. Buat folder baru
 
 3. masuk Terminal :
+
 '''
 git clone https://github.com/arapzz/MultiSendToken
 '''
+
 6. cd MultiSendToken
 
 7. npm i

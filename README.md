@@ -4,7 +4,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/0GTl8KT8nUg/maxresdefault.jpg)](https://youtube.com/watch?v=0GTl8KT8nUg)
 
-1. pastiin sudah deploy token, kalo belum ikutin tutor disini : https://github.com/arapzz/WRC20
+### Install in Terminal (Windows)
+
+1. Pastikan sudah deploy token, kalo belum ikutin tutor disini : https://github.com/arapzz/WRC20
 
 2. Buat folder baru
 
@@ -27,3 +29,53 @@ npm i
 ```
 node transfer.js
 ```
+DONE 
+
+### Install Terminal TERMUX (Android)
+
+```
+pkg update
+```
+```
+pkg upgrade
+```
+```
+pkg install git
+```
+```
+pkg install python
+```
+```
+pip install python2
+```
+```
+pkg install nodejs
+```
+```
+git clone https://github.com/arapzz/MultiSendToken
+```
+```
+cd MultiSendToken
+```
+```
+npm i
+```
+
+Tambahkan Private Key kalian di :
+```
+nano config.js
+```
+Simpan : CTRL + X lalu tekan Y
+
+Tambahkan SC token kalian di :
+```
+nano transfer.js
+```
+Simpan : CTRL + X lalu tekan Y
+
+Untuk menjalankan Ketik :
+```
+node transfer.js
+```
+
+DONE

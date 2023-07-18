@@ -33,7 +33,7 @@ DONE
 
 ## 2. Install Terminal TERMUX (Android)
 
-### 🔘Menambahkan tombol panah di termux
+### 🔘MENAMBAHKAN TOMBOL PANAH 
 
 <img height="150" height="auto" src="https://i.imgur.com/0PwrciR.jpg">
 
@@ -57,7 +57,7 @@ python karjok.py
 ```
 Ketik 1 Use Default Keys
 
-### 🔘Install MultiSend
+### 🔘INSTALL MULTISEND
 ```
 pkg update
 ```

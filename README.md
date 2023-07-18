@@ -6,7 +6,7 @@
 
 ## 1. Install in Terminal (Windows)
 
-1. Pastikan sudah deploy token, kalo belum ikutin tutor disini : https://github.com/arapzz/WRC20
+1. Pastikan sudah deploy token, kalo belum ikutin tutor disini : [![DEPLOY SMART CONTRATCS]](https://github.com/arapzz/WRC20)
 
 2. Buat folder baru
 
@@ -33,7 +33,7 @@ DONE
 
 ## 2. Install Terminal TERMUX (Android)
 
-### Menambahkan tombol panah di termux
+### 🔘Menambahkan tombol panah di termux
 
 <img height="150" height="auto" src="https://i.imgur.com/0PwrciR.jpg">
 
@@ -55,7 +55,9 @@ cd terkey
 ```
 python karjok.py
 ```
-### Install MultiSend
+Ketik 1 Use Default Keys
+
+### 🔘Install MultiSend
 ```
 pkg update
 ```

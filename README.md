@@ -6,7 +6,7 @@
 
 ## 1. Install in Terminal (Windows)
 
-1. Pastikan sudah deploy token, kalo belum ikutin tutor disini : [![DEPLOY SMART CONTRATCS]](https://github.com/arapzz/WRC20)
+1. Pastikan sudah deploy token, kalo belum ikutin tutor disini : [DEPLOY SMART CONTRATCS](https://github.com/arapzz/WRC20)
 
 2. Buat folder baru
 
@@ -63,7 +63,9 @@ python karjok.py
 ```
 Ketik 1 Use Default Keys
 
-### 🔘INSTALL MULTISEND
+### 🔘INSTALL MULTISEND TOKEN
+
+Pastikan sudah deploy token, kalo belum ikutin tutor disini : [DEPLOY SMART CONTRATCS](https://github.com/arapzz/WRC20)
 ```
 pkg update
 ```

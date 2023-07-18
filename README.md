@@ -1,7 +1,9 @@
 ﻿# Multi Send Token
  
-<h3 align="left">Social Media:</h3>
 ## WATCH NOW : klik gambar dibawah untuk menonton tutorial 👇
+
+<h3 align="left">YouTube Channel Subscribers:</h3>
+
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJc6GLSlgqe-H5Dktgd-pDQ)
 
 

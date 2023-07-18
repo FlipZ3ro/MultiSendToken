@@ -21,9 +21,15 @@ cd MultiSendToken
 npm i
 ```
 
-4. masukan SC token di transfer.js
+4. Tambahkan SC token kalian di :
+```
+transfer.js
+```
 
-5. masukin PK di config.js scroll paling bawah
+5. Tambahkan Private Key kalian di :
+```
+config.js 
+```
 
 6. jalankan menggunakan command
 ```

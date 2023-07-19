@@ -53,7 +53,7 @@ pkg install python
 pkg install python2 
 ```
 ```
-git clone https://github.com/karjok/terke
+git clone https://github.com/karjok/terkey
 ```
 ```
 cd terkey

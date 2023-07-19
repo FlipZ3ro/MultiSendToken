@@ -41,7 +41,7 @@ DONE
 
 ### 🔘MENAMBAHKAN TOMBOL PANAH 
 
-<img height="150" height="auto" src="https://i.imgur.com/0PwrciR.jpg">
+<img  height="auto" src="https://i.imgur.com/0PwrciR.jpg">
 
 ```
 pkg install git 

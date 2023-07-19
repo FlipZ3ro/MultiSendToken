@@ -62,7 +62,7 @@ cd terkey
 python terkey.py
 ```
 <img height="auto" src="https://github.com/karjok/terkey/blob/master/screenshot.jpg">
-Ketik 1 Use Default Keys
+Ketik 1 : Use Default Keys
 
 ### 🔘INSTALL MULTISEND TOKEN
 

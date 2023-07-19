@@ -59,7 +59,7 @@ git clone https://github.com/karjok/terkey
 cd terkey
 ```
 ```
-python karjok.py
+python terkey.py
 ```
 Ketik 1 Use Default Keys
 

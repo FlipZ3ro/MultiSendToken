@@ -37,7 +37,7 @@ node transfer.js
 ```
 DONE 
 
-## 2. Install Terminal TERMUX (Android)
+## 2. Install in Terminal TERMUX (Android)
 
 ### 🔘MENAMBAHKAN TOMBOL PANAH 
 

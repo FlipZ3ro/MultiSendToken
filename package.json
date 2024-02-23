@@ -1,5 +1,5 @@
 {
-  "name": "@flipz3ro/MultiSendToken",
+  "name": "@flipz3ro/multi-send",
   "version": "1.0.1",
   "description": "Sends Ether to multiple wallets",
   "scripts": {

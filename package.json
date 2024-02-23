@@ -1,6 +1,6 @@
 {
-  "name": "sender-rapzz",
-  "version": "1.0.0",
+  "name": "@flipz3ro/MultiSendToken",
+  "version": "1.0.1",
   "description": "Sends Ether to multiple wallets",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

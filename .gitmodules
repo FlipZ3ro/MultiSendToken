@@ -1,0 +1,3 @@
+[submodule "baru/baru/MultiSendToken"]
+	path = baru/baru/MultiSendToken
+	url = https://github.com/FlipZ3ro/MultiSendToken

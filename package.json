@@ -1,15 +1,28 @@
 {
-  "name": "multi-sender",
+  "name": "sender-rapzz",
   "version": "1.0.0",
   "description": "Sends Ether to multiple wallets",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "0xRomRom",
+  "author": "arapzz",
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.1",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "ethers": "^5.7.2"
-  }
+  },
+  "main": "config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlipZ3ro/MultiSendToken.git"
+  },
+  "keywords": [
+    "multisender-token-evm"
+  ],
+  "bugs": {
+    "url": "https://github.com/FlipZ3ro/MultiSendToken/issues"
+  },
+  "homepage": "https://github.com/FlipZ3ro/MultiSendToken#readme"
 }

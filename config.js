@@ -1,7 +1,6 @@
 // Network configuration
 exports.RPC = "https://rpc-testnet.whitebit.network";
 exports.ETHERSCAN = "https://explorer.whitebit.network/testnet";
-exports.ETH = "0.0001";
 exports.keys = {
   main: "PRIVATE KEY WALLET",
 };
@@ -2006,5 +2005,4 @@ exports.addresses = {
   W_1997: "0xB7b14E5A6F3484aD596bEa0d1d18781A916AbD78",
   W_1998: "0x697dd9E0653206f3FCb01B7a0ca026CF785fb112",
   W_1999: "0xc52B0A334D8e0312Ccd7C910051cd3dFa49671Eb",
-
 };
